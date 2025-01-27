@@ -1,4 +1,6 @@
 # Testing GitHub markdown formating
 
-select
+<select>
+  <option value="test">Tets</option>
+</select>
 
